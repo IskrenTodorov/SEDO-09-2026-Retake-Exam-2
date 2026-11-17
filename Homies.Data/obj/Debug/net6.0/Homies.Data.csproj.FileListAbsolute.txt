@@ -1,0 +1,15 @@
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/bin/Debug/net6.0/Homies.Data.deps.json
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/bin/Debug/net6.0/Homies.Data.runtimeconfig.json
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/bin/Debug/net6.0/Homies.Data.dll
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/bin/Debug/net6.0/Homies.Data.pdb
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.AssemblyReference.cache
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfoInputs.cache
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.AssemblyInfo.cs
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.csproj.CoreCompileInputs.cache
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.sourcelink.json
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.dll
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/refint/Homies.Data.dll
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.pdb
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/Homies.Data.genruntimeconfig.cache
+/home/ubuntu/Documents/SEDO-09-2026-Retake-Exam-2/Homies.Data/obj/Debug/net6.0/ref/Homies.Data.dll
